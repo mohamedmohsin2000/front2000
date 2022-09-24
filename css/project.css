@@ -3,6 +3,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    transition: all 0.3s;
 }
 
 /* start header */
@@ -633,7 +634,7 @@ color:  rgb(255,198,0) !important;
             padding: 30px !important;
         }
         .slide .title {
-            font-size: 30px;
+            font-size: 20px;
             font-weight: 700;
             color: #ffffff;
             margin-bottom: 0px;
@@ -667,6 +668,7 @@ color:  rgb(255,198,0) !important;
         right: 70px;
         
     }
+    
     /* end m-carousel */
 
     /* start m-container 1 */
@@ -689,7 +691,7 @@ color:  rgb(255,198,0) !important;
     .card button {
        
         bottom: -10px;
-        left:140px;
+        left: 55px;
         
     }
     .services {
