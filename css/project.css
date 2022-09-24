@@ -572,6 +572,8 @@ color: white !important;
       color: white;  
 }
 .des .show{
+    font-size: 15px;
+    font-weight: 400;
 color:  rgb(255,198,0) !important;
 }
    
@@ -744,7 +746,7 @@ color:  rgb(255,198,0) !important;
     /* end m-container 5 */
     /* start m-footer*/
     .footer button {
-       left: 250px !important;
+       left: 150px !important;
     }
     
 
