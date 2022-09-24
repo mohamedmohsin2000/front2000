@@ -1,4 +1,5 @@
-*{
+*{ 
+    margin: 0px;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -520,7 +521,7 @@ margin-left: 10px;
     color: #5993fa;
     font-size: 19px;
     font-weight: 700;
-    padding-bottom: 10px;
+   
     left: 0px;
 }
 .footer ul li{
@@ -547,9 +548,10 @@ margin-left: 10px;
    
     width: 100% !important;
 }
-.contact{
+.contact ,.des{
     border-bottom: 1px solid #91a0bd;
 }
+
  #icon i{
     font-size: 20px;
     margin-right: 20px;
